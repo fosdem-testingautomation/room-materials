@@ -11,7 +11,7 @@ like to meet you all in person :)
 
 The confirmed schedule if you're interested is here:
 
-    <https://fosdem.org/2014/schedule/track/testing_and_automation/>
+    <https://fosdem.org/$$YEAR$$/schedule/track/testing_and_automation/>
 
 
 While all the current speakers have confirmed their attendance, there is a

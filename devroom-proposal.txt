@@ -1,0 +1,32 @@
+Devroom
+-------------
+Testing and Automation Dev Room
+
+Description
+---------------
+This room is about creating better software through a focus on testing and automation at all layers of the stack. From creating libraries and end-user applications all the way up to a packaging, distribution and deployment.
+
+Testing and automation is not isolated to a single toolchain, language or platform, there is much to learn and share regardless of background. The goal of this developer room is to foster discussion across various layers of testing and automation, using open source tools to improve all software.
+
+We will host a number of sessions from:
+ * core developers from testing and automation tools
+ * power-users using those tools to do interesting things
+ * groups who have introduced tooling to improve quality
+
+Projects URLs
+--------------------
+ * Jenkins <https://jenkins-ci.org>
+
+Preferred Day
+-------------------
+We'd be happy with either day.
+
+Why should FOSDEM accept this proposal?
+-----------------------------------------------------------
+We have had the opportunity to host the Testing and Automation devroom the last several years, each time with a good reception from the FOSDEM community. The Testing and Automation devroom allows for developers who share a particular passion for testing or automation tooling to share their experiences with one another.
+
+The Testing and Automation devroom gives us the forum to discuss how various open source projects are testing, and delivering quality software to the ecosystem. This past year that included topics ranging from application-level testing down to testing whole clusters of applications. I think this scope and focus on testing is a good thing for the broader open-source community, especially for larger projects where there does tend to be a few individuals focused on build systems, test suite development, and release engineering.
+
+I believe this dev room offers an opportunity for isolated contributors to across various projects to come together and learn from one another on testing and automation topics which are rarely hosted elsewhere.
+
+

@@ -1,0 +1,28 @@
+Hello everybody (Bcc'd!)
+
+Thank you for your proopsals to the Testing and Automation devroom,
+unfortunately we only have one day and can't fit everybody in. This will be the
+second consecutive year of hosting the devroom, and I'm really happy to have
+so many proposals from the wide range of automation-focused projects, and
+varying kinds of testing.
+
+If you will be coming to FOSDEM, please come find me and say hello, I'd still
+like to meet you all in person :)
+
+The confirmed schedule if you're interested is here:
+
+    <https://fosdem.org/2014/schedule/track/testing_and_automation/>
+
+
+While all the current speakers have confirmed their attendance, there is a
+possibility that some of the speakers for the talks listed above cannot make
+it, in which case I have some alternates in mind, and I will email you
+personally if this happens.
+
+We do still need help running the room, and making sure all the talks are
+running smoothly and recorded. If you're interested in volunteering let me
+know!
+
+I'm hoping we will be back next year for $$FOSDEMNEXTYEAR$$ and if you'd like I can
+email you all if/when we open the CFP for $$NEXTYEAR$$.
+

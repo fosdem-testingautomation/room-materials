@@ -1,0 +1,172 @@
+Hello everyone! (Bcc'd)
+
+I'm writing to inform you that your talk proposal has been accepted
+for the $$ROOMNAME$$ devroom at $$FOSDEM_YEAR$$.
+
+
+
+First though, let's get down to business, please read this email in
+its entirety.`
+
+If you cannot participate, please let us know ASAP. Please confirm
+with us that you will be present on $$DATE$$ in Brussels and prepared
+to speak.
+
+
+A LITTLE ABOUT FOSDEM:
+----------------------
+FOSDEM is very geared towards free and open source projects. It's a
+great place to talk about open source software, new projects,
+community efforts, etc. Also, do NOT make sexist or racist jokes in
+your presentation, or at all really. FOSDEM is a universal and
+welcoming conference, please be respectful to your fellow hackers.
+
+
+COMMUNICATION:
+--------------
+We will set up a mailing list for further communication. I will send
+further details about it later.
+This is how we will coordinate the schedule and keep everybody
+informed of what is going on.
+
+You can reach me privately at this email address, or by phone in the
+US at $$PHONE$$ (until ~Jan. 28th). I will send everybody my
+European mobile number when I get it on Jan. 30th. You can also reach
+me via Twitter at @jeffweiss, I'm also "jeffweiss" on the Freenode IRC
+network.
+Alternatively, you can reach our other fearless devroom manager, R
+Tyler Croy, at tyler@monkeypox.org, US mobile at $$PHONE$$, and
+"rtyler" on Freenode and EFNet IRC networks.
+
+
+SCHEDULE:
+---------
+The devroom will be one day, on February 1st, 2015 from 10:00 to 17:10.
+
+Full talks are 45 minutes total, this means Tyler or I will take 1
+minute to introduce you, and you have the remaining time to speak AND
+answer questions. Please use the final 5-10 minutes of your timeslot
+to answer questions from the audience.
+
+We tried to accept as many proposals as we possibly could, and, as
+such, our schedule is *very* tight, with 10 minutes between talks.
+Please be courteous to the next speakers and audience and finish
+on-time!
+
+We expect to see you in the room at least 10 minutes before your
+presentation to make sure you're hooked up, ready to speak at the
+scheduled time, and that I get the opportunity to shake your hand and
+personally thank you for participating.
+
+Barring some drastic conflict, the tentative schedule is:
+
+$$TENTATIVESCHEDULE$$
+
+MATERIALS:
+----------
+If you wish to present using your laptop, that is preferred, but you
+will be responsible for bringing your *own* VGA adapter cable.
+
+If you do not wish to use your own laptop, you will need to send me a
+PDF or LibreOffice-compatible presentation document that I can project
+from my own laptop. This must be sent to me *before* I get to the
+beer-bash the Friday night before (Jan 30th).
+
+
+THE ROOM:
+---------
+We will be located in $$ROOM$$ which has $$SEATS$$ seats. Please keep this
+in mind when preparing slides or demos, small fonts will be difficult
+to see!
+
+This room will also be recorded and, I believe, live-streamed. Edited
+video recordings will be posted to http://video.fosdem.org some time
+after the conference by the general FOSDEM staff and volunteers. By
+confirming your attendance you agree to have your talk recorded and
+posted.
+
+
+MARKETING:
+----------
+Tell everybody to come to FOSDEM and see you talk! We want to see all
+$$SEATS$$ seats filled all day (and people standing in the hall waiting to
+get in)! You're a very important part of FOSDEM, and can be a big help
+to get others excited about the conference.
+
+Here are some things you can do to help with getting the word out on
+your talk once we've published the schedule:
+
+Post to Twitter/Google+:
+  It would be best to publish an announcement right when the schedule
+is published ("Yay! I'm speaking in the Testing/Automation devroom at
+#FOSDEM! ") and about a week before FOSDEM.
+  Extra credit for posting about other people's talks that you want to
+see too :)
+
+Blog about it:
+  I'm sure most of you have blogs, write up a blog post introducing
+your talk, FOSDEM, and
+  the devroom itself.
+
+Let your open source community know!
+  Send an email to the developers/users mailing lists for the open
+source project that's related
+  to your talk and let them know you'll be speaking at FOSDEM on the subject!
+
+If you need help proof-reading a blog post or an email, or have links
+for us to share, please ask Tyler or me, or on the mailing list once
+it is created. We can definitely help.
+
+
+SOME UNSOLICITED ADVICE:
+------------------------
+Tyler and I been speaking publicly for a number of years, so here's
+some advice that we hope you don't mind reading:
+
+  * Do not wait until your plane/train ride to create your presentation.
+    Firstly, everybody in the audience can tell, but more importantly, it does
+    the subject matter a disservice and usually ends up poorly communicating
+    the content.
+
+  * Font size matters. I would estimate that for the size of the room, if the
+    fonts in your slides are less than 1/8th-1/10th the height of the
+slide, they
+    will be difficult for everybody to see. Please keep this in mind when
+    creating content.
+
+ * Rehearse. Please, please please, rehearse your presentation. If you intend
+    to fit in the allotted time slot, you *MUST* rehearse your presentation!
+    We are sure you can speak very well on the subject matter, but improvising
+    your words will result in a lot of "umms" and "uhhhs" that make you
+    presentation difficult to follow. When I've rehearsed presentations,
+    without fail I've gone back and changed/rearranged my slides to make sure
+    the flow of the lecture is going the way I want it to. I guarantee you will
+    find things you forgot about, or could explain better when you rehearse!
+
+  * Slow down.
+    Most people tend to speak faster under pressure during a presentation, keep
+    this in mind when you're timing your rehearsals. FOSDEM is a multicultural
+    event where English is not the 1st (or 2nd!) language of many attendees.
+    Speaking more slowly will help the audience follow your
+presentation (and help
+    you relax).
+
+  * Have fun and be comfortable! This is FOSDEM, we are your peers, the most
+    important part of your presentation is *YOU*. If you're comfortable and
+    passionate about the subject, that makes any presentation enjoyable for the
+    audience.
+
+
+We will be publishing the schedule on the fosdem.org website as soon
+as we start to get confirmation from speakers, so confirm as soon as
+possible!.
+
+If you have any questions, feel free to ask me directly.
+
+Can't wait to meet you all and have a great time in Brussels!
+
+
+
+Cheers,
+
+Jeff Weiss and R Tyler Croy

@@ -1,7 +1,7 @@
 Hello everybody (Bcc'd!)
 
-Thank you for your proopsals to the Testing and Automation devroom,
-unfortunately we only have one day and can't fit everybody in. This will be the
+Thank you for your proposals to the Testing and Automation devroom.
+Unfortunately we only have one day and can't fit everybody in. This will be the
 second consecutive year of hosting the devroom, and I'm really happy to have
 so many proposals from the wide range of automation-focused projects, and
 varying kinds of testing.
